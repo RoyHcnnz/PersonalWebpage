@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        <p>This page is open sourced <a href="https://google.com">here</a>.</p>
+        <p>This page is open sourced <a href="https://github.com/RoyHcnnz/PersonalWebpage">here</a>.</p>
     </div>
 </template>
 
