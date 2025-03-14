@@ -2,12 +2,10 @@
     <div class="about-wrapper" id="about">
         <div class="about">
             <div class="c-cyberpunk">
-                <h1 class="title">Software Developer</h1>
+                <h1 class="title">Title</h1>
             </div>
             <p class="description">
-                Continuously self-studying emerging technologies to craft innovative 
-                solutions. Focusing on solving complex challenges with 
-                outside-the-box approaches.
+                Description
             </p>
             <div class="nav-buttons">
                 <a href="#contact">

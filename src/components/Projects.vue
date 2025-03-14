@@ -10,19 +10,6 @@ import KeywordBubble from './KeywordBubble.vue';
         </div>
         <div class="projects-cards">
             <div class="projects-row">
-                <ProjectCard>
-                    <template #project-name>
-                        <h2>Password Generator</h2>
-                    </template>
-                    <template #project-description>
-                        <p>Password Generator randomly creates a sequence of 
-                            characters of length bwtween 1-512.</p>
-                    </template>
-                    <template #project-keywords>
-                        <KeywordBubble>Vue JS</KeywordBubble>
-                        <KeywordBubble>TypeScipt</KeywordBubble>
-                    </template>
-                </ProjectCard>
                 <ProjectCard />
             </div>
         </div>

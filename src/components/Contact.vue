@@ -8,21 +8,21 @@ import IconEmail from './icons/IconEmail.vue';
     <div class="contact" id="contact">
         <div class="title c-cyberpunk"><h1>Together, let's create something amazing!</h1></div>
 
-        <a href="https://github.com/RoyHcnnz">
+        <a href="https://github.com/">
             <div class="contact-method">   
-                <div><IconGithub /></div><div>RoyHcnnz</div>
+                <div><IconGithub /></div><div>Github</div>
             </div>
         </a>
         
-        <a href="https://www.linkedin.com/in/run-h-b89b44215/">
+        <a href="https://www.linkedin.com/">
             <div class="contact-method">
                 <div><IconLinkedIn /></div><div><p>LinkedIn</p></div>
             </div>
         </a>
 
-        <a href="mailto:rhuangcnnz@gmail.com">
+        <a href="mailto:email@email.com">
             <div class="contact-method">
-                <div><IconEmail /></div><div><p>rhuangcnnz@gmail.com</p></div>
+                <div><IconEmail /></div><div><p>Email</p></div>
             </div>
         </a>
     </div>
