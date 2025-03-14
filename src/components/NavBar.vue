@@ -1,6 +1,6 @@
 <template>
     <div class="nav">
-        <div class="text-logo"><p>&lt/> RUNGRY</p></div>
+        <div class="text-logo"><p>&lt/> LOGO</p></div>
         <div class="nav-links">
             <p class="nav-link"><a href="#about">About</a></p>
             <p class="nav-link"><a href="#projects">Projects</a></p>
