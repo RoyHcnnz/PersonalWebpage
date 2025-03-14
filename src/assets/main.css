@@ -1,0 +1,32 @@
+@import './base.css';
+
+/*
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-weight: normal;
+}*/
+
+@media (hover: hover) {
+  
+}
+
+a {
+  text-decoration: none;
+  transition: 0.4s;
+  color: currentColor;
+}
+a:visited{
+    color: currentColor;
+}
+
+@media (min-width: 1024px) {
+}
+
+.c-cyberpunk{
+  background: linear-gradient(90deg, #23D2EE, #7A6FF5);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
